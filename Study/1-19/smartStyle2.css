@@ -1,0 +1,38 @@
+@media screen and (max-width:479px) {
+    .wrapper{
+        width: 200px;
+    }
+    .header{
+        height: 200px;
+    }
+    .header1{
+        width: 60px;
+        height: 160px;
+        margin-right: 70px ;
+    }
+    .header-inner2{
+        margin:0 10px 10px 10px ;
+    }
+    .header-inner3{
+        margin:0 10px 10px 10px ;
+    }
+    .left{
+        height: 100px;
+        width: 200px;
+        float: none;
+    }
+
+    .right{
+        width: 200px;
+        float: none;
+    }
+    .right1{
+        margin: 20px 20px 0 30px;
+    }
+    .right2{
+        margin: 10px 20px 0 30px;
+    }
+    .right3{
+        margin: 10px 20px 10px 30px;
+    }
+}
